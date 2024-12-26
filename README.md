@@ -8,6 +8,11 @@
 
 https://github.com/user-attachments/assets/7c5195c4-bd41-4a1c-a1d1-b303c68f65e6
 
+Как это выглядит в ([LawMatic B2](https://github.com/lawlabs/LawMatic-B2-macOS)):
+
+![Запись экрана 2024-12-26 в 17 58 34](https://github.com/user-attachments/assets/d92a87ca-217b-4ca9-97b8-02a241b2f0e5)
+
+
 ## Технологии
 
 - **Язык программирования:** Swift
